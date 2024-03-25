@@ -81,7 +81,6 @@
   color: rgba(0, 0, 0, 0.911);
 }
 
-/* Panel Buttons Arrow Effect */
 .parent_arrow i {
   position: absolute;
   top: 50%;
@@ -96,7 +95,6 @@
   z-index: -10;
 }
 
-/*  Header_envato_market */
 .header_envato_market {
   position: fixed;
   z-index: 44;
@@ -162,7 +160,7 @@
   cursor: pointer;
 }
 
-/* top_menu_bar */
+
 .top_menu_bar {
   background-color: #1b1d1f;
   margin: 59px 0 0 0;
@@ -220,7 +218,7 @@ ul.dropdown_menu li a:hover {
   color: white;
 }
 
-/*  nav_bottom_menu_bar  */
+
 .nav_bottom_menu_bar {
   background-color: white;
   position: relative;
@@ -278,7 +276,6 @@ ul.dropdown_menu li a:hover {
   padding: 0 0 0 14px;
 }
 
-/* Navbar Dropdown Menus */
 .dropdown_features {
   position: absolute;
   background-color: #fff;
@@ -374,7 +371,6 @@ li.parent_extra:hover .dropdown_features {
   border-radius: 10px;
 }
 
-/* backgrund_wallpaper  */
 .backgrund_wallpaper {
   background-image: url("https://d3f86pfw66amx.cloudfront.net/uncode/wp-content/uploads/2022/07/fabio-alves-HNaC2lbnK_0-unsplash.jpg");
   background-position: center;
@@ -410,7 +406,6 @@ li.parent_extra:hover .dropdown_features {
   color: black;
 }
 
-/* filter_nav */
 .filter_nav_container {
   padding: 36px 0;
 }
@@ -481,7 +476,6 @@ li.parent_extra:hover .dropdown_features {
   visibility: visible;
 }
 
-/* Filter Context */
 .filter_context {
   display: flex;
   justify-content: space-between;
@@ -515,7 +509,6 @@ li.parent_extra:hover .dropdown_features {
   padding: 0px 20px 18px 0;
 }
 
-/* Product List */
 
 .product_container {
   display: flex;
@@ -665,7 +658,6 @@ li.parent_extra:hover .dropdown_features {
   object-fit: cover;
 }
 
-/* pagination */
 .pagination {
   position: relative;
 }
@@ -815,7 +807,6 @@ input::placeholder {
   padding: 2px 20px;
 }
 
-/* customer contact */
 .customer_contact {
   padding: 0 0 0 10px;
 }
@@ -846,7 +837,6 @@ input::placeholder {
   color: red;
 }
 
-/*footer_icon_res  */
 .footer_icon_res {
   padding: 20px 0 0 0;
   display: flex;
